@@ -1,0 +1,2 @@
+INSERT  INTO  User VALUES (1,'张三',4);
+INSERT  INTO  User VALUES (2,'李四',5);

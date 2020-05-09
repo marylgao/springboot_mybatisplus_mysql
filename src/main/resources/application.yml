@@ -1,0 +1,8 @@
+#database configuration
+spring:
+  #数据源
+  datasource:
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&useSSL=false&characterEncoding=utf8&&serverTimezone=UTC
+    username: root
+    password: 1qaz2wsx3edc
+    driver-class-name: com.mysql.cj.jdbc.Driver
